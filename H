@@ -1,0 +1,5 @@
+! revDSD-PBEP86-D4/2021 def2-qzvpp def2/j def2-qzvpp/c RIJCOSX NumFreq tightscf angs
+%pal nprocs 16 end
+%maxcore 16000
+* xyz 0 1
+
